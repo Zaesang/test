@@ -1,0 +1,66 @@
+{
+    "zones": [
+        { "country": "KR", "fromUnCode": "KRSEL", "toUnCode": "KRICN", "fromPostCode": "10000", "toPostCode": "20000" },
+        { "country": "KR", "fromUnCode": "KRSEL", "toUnCode": "KRICN", "fromPostCode": "02001", "toPostCode": "02001" },
+        { "country": "KR", "fromUnCode": "KRSEL", "toUnCode": "KRICN", "fromPostCode": "02773", "toPostCode": "02773" },
+        { "country": "KR", "fromUnCode": "KRSEL", "toUnCode": "KRGMP", "fromPostCode": "10000", "toPostCode": "20000" },
+
+        { "country": "KR", "fromUnCode": "KRINC", "toUnCode": "KRICN", "fromPostCode": "10000", "toPostCode": "20000" },
+        { "country": "KR", "fromUnCode": "KRINC", "toUnCode": "KRICN", "fromPostCode": "02001", "toPostCode": "02001" },
+        { "country": "KR", "fromUnCode": "KRINC", "toUnCode": "KRICN", "fromPostCode": "02773", "toPostCode": "02773" },
+        { "country": "KR", "fromUnCode": "KRINC", "toUnCode": "KRICN", "fromPostCode": "*", "toPostCode": "*" },
+
+        { "country": "KR", "fromUnCode": "KRPUS", "toUnCode": "KRPUS", "fromPostCode": "*", "toPostCode": "*" },
+        
+        { "country": "KR", "fromUnCode": "KRGMP", "toUnCode": "KRGMP", "fromPostCode": "*", "toPostCode": "*" },
+        
+        { "country": "JP", "fromUnCode": "JPNRT", "toUnCode": "JPCHB", "fromPostCode": "2600000", "toPostCode": "2600007" },
+        { "country": "JP", "fromUnCode": "JPNRT", "toUnCode": "JPCHB", "fromPostCode": "2600011", "toPostCode": "2600018" },
+        { "country": "JP", "fromUnCode": "JPNRT", "toUnCode": "JPCHB", "fromPostCode": "2600021", "toPostCode": "2600028" },
+        { "country": "JP", "fromUnCode": "JPNRT", "toUnCode": "JPCHB", "fromPostCode": "2600031", "toPostCode": "2600034" },
+        { "country": "JP", "fromUnCode": "JPNRT", "toUnCode": "JPCHB", "fromPostCode": "2600041", "toPostCode": "2600042" },
+        { "country": "JP", "fromUnCode": "JPNRT", "toUnCode": "JPCHB", "fromPostCode": "2600044", "toPostCode": "2600045" },
+        { "country": "JP", "fromUnCode": "JPNRT", "toUnCode": "JPCHB", "fromPostCode": "2600801", "toPostCode": "2600808" },
+        { "country": "JP", "fromUnCode": "JPNRT", "toUnCode": "JPCHB", "fromPostCode": "2600811", "toPostCode": "2600816" },
+        { "country": "JP", "fromUnCode": "JPNRT", "toUnCode": "JPCHB", "fromPostCode": "2600821", "toPostCode": "2600826" },
+
+        { "country": "JP", "fromUnCode": "JPNRT", "toUnCode": "JPNRT", "fromPostCode": "*", "toPostCode": "*" },
+
+        { "country": "JP", "fromUnCode": "JPFUK", "toUnCode": "JPFUK", "fromPostCode": "*", "toPostCode": "*" },
+        
+        { "country": "HK", "fromUnCode": "HKHKG", "toUnCode": "HKCSW", "fromPostCode": "*", "toPostCode": "*" },
+        { "country": "HK", "fromUnCode": "HKHKG", "toUnCode": "HKKWN", "fromPostCode": "*", "toPostCode": "*" },
+        { "country": "HK", "fromUnCode": "HKHKG", "toUnCode": "HKABD", "fromPostCode": "*", "toPostCode": "*" },
+        { "country": "HK", "fromUnCode": "HKHKG", "toUnCode": "HKHKG", "fromPostCode": "*", "toPostCode": "*" },
+
+        { "country": "BE", "fromUnCode": "BECRL", "toUnCode": "BECRL", "fromPostCode": "*", "toPostCode": "*" },
+        { "country": "BE", "fromUnCode": "BEBRU", "toUnCode": "BEBRU", "fromPostCode": "*", "toPostCode": "*" },
+
+        { "country": "DE", "fromUnCode": "DEDUS", "toUnCode": "DEDUS", "fromPostCode": "*", "toPostCode": "*" },
+        { "country": "DE", "fromUnCode": "DEFRA", "toUnCode": "DEFRA", "fromPostCode": "*", "toPostCode": "*" },
+        
+        
+        { "country": "SI", "fromUnCode": "SILJU", "toUnCode": "SILJU", "fromPostCode": "*", "toPostCode": "*" },
+        
+        { "country": "ES", "fromUnCode": "ESMAD", "toUnCode": "ESMAD", "fromPostCode": "*", "toPostCode": "*" },
+        
+        { "country": "IT", "fromUnCode": "ITMXP", "toUnCode": "ITMXP", "fromPostCode": "*", "toPostCode": "*" },
+        
+        { "country": "IS", "fromUnCode": "ISREK", "toUnCode": "ISREK", "fromPostCode": "*", "toPostCode": "*" },
+        
+        { "country": "CH", "fromUnCode": "CHSHA", "toUnCode": "CHSHA", "fromPostCode": "*", "toPostCode": "*" },
+        { "country": "CH", "fromUnCode": "CHPVG", "toUnCode": "CHPVG", "fromPostCode": "*", "toPostCode": "*" },
+
+        { "country": "US", "fromUnCode": "USSYR", "toUnCode": "USSYR", "fromPostCode": "*", "toPostCode": "*" },
+        
+        { "country": "IE", "fromUnCode": "IEDUB", "toUnCode": "IEDUB", "fromPostCode": "*", "toPostCode": "*" },
+        
+        { "country": "IQ", "fromUnCode": "IQBMN", "toUnCode": "IQBMN", "fromPostCode": "*", "toPostCode": "*" },
+        
+        { "country": "PL", "fromUnCode": "PLKRK", "toUnCode": "PLKRK", "fromPostCode": "*", "toPostCode": "*" },
+        
+        { "country": "DK", "fromUnCode": "DKCPH", "toUnCode": "DKCPH", "fromPostCode": "*", "toPostCode": "*" },
+        
+        { "country": "PT", "fromUnCode": "PTLIS", "toUnCode": "PTLIS", "fromPostCode": "*", "toPostCode": "*" }
+    ]
+}
